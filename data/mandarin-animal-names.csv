@@ -1,0 +1,855 @@
+Mandarin,English,Length
+鸡,Chicken,1
+狼,Wolf,1
+熊,Bear,1
+鹅,Goose,1
+鹿,Deer,1
+龙,Dragon,1
+牛,Ox,1
+狗,Dog,1
+马,Horse,1
+虾,Shrimp,1
+驴,Donkey,1
+猫,Cat,1
+羊,Sheep,1
+蛇,Snake,1
+猪,Pig,1
+蝉,Cicada,1
+蚕,Silkworm,1
+鲎,Horseshoe Crab,1
+鹰,Eagle,1
+貉,Raccoon Dog,1
+貘,Tapir,1
+虫,Insect,1
+豺,Jackal,1
+貂,Mink,1
+公鸡,Rooster,2
+鲨鱼,Shark,2
+牡蛎,Oyster,2
+山羊,Goat,2
+考拉,Koala,2
+蜗牛,Snails,2
+蝎子,Scorpion,2
+猴子,Monkey,2
+青蛙,Frog,2
+猎豹,Cheetah,2
+狮子,Lion,2
+兔子,Rabbit,2
+水母,Jellyfish,2
+章鱼,Octopus,2
+瓢虫,Ladybug,2
+天鹅,Swan,2
+松鼠,Squirrel,2
+螃蟹,Crab,2
+蜜蜂,Bee,2
+凤凰,Phoenix,2
+蝙蝠,Bat,2
+仓鼠,Hamster,2
+老鼠,Mouse,2
+企鹅,Penguin,2
+狐狸,Fox,2
+水懒,Water Lazy,2
+刺猬,Hedgehog,2
+斑马,Zebra,2
+鲸鱼,Whale,2
+龙虾,Lobster,2
+鹦鹉,Parrot,2
+蜥蜴,Lizard,2
+大象,Elephant,2
+海豚,Dolphin,2
+老虎,Tiger,2
+孔雀,Peacock,2
+鳄鱼,Crocodile,2
+袋鼠,Kangaroo,2
+骆驼,Camel,2
+蝴蝶,Butterfly,2
+鸭子,Duck,2
+乌龟,Turtle,2
+河马,Hippo,2
+乌鸦,Crow,2
+公牛,Bull,2
+刺蝟,Hedgehog,2
+河狸,Beaver,2
+河豚,Pufferfish,2
+火鸡,Turkey,2
+熊猫,Panda,2
+犀牛,Rhino,2
+蚊子,Mosquito,2
+恐龙,Dinosaur,2
+蚂蚁,Ant,2
+蜘蛛,Spider,2
+蟑螂,Cockroach,2
+苍蝇,Fly,2
+鸽子,Pigeon,2
+蟒蛇,Python,2
+金鱼,Goldfish,2
+麻雀,Sparrow,2
+龙猫,Chinchilla,2
+蜻蜓,Dragonfly,2
+猩猩,Chimpanzees,2
+果蝇,Fruit Fly,2
+蚯蚓,Earthworm,2
+虎鲸,Killer Whale,2
+螳螂,Mantis,2
+蜈蚣,Centipede,2
+翠鸟,Kingfisher,2
+知了,Got It,2
+驯鹿,Reindeer,2
+乌贼,Squid,2
+海马,Seahorse,2
+海龟,Sea ​​Turtle,2
+电鳗,Electric Eel,2
+树懒,Sloth,2
+绵羊,Sheep,2
+玳瑁,Tortoiseshell,2
+蜂鸟,Hummingbird,2
+斑鳖,Turtle,2
+浣熊,Raccoon,2
+豹子,Leopard,2
+藏獒,Tibetan Mastiff,2
+野猪,Wild Boar,2
+蟋蟀,Cricket,2
+燕子,Swallow,2
+蓝鲸,Blue Whale,2
+海狮,Sea ​​Lion,2
+海鸥,Seagull,2
+黑熊,Black Bear,2
+海鸟,Seabird,2
+秃鹫,Vulture,2
+燕隼,Yan Falcon,2
+奶牛,Dairy Cow,2
+雪豹,Snow Leopard,2
+白鲸,White Whale,2
+狒狒,Baboon,2
+锯鳐,Sawfish,2
+白蚁,Termite,2
+猕猴,Macaque,2
+鸵鸟,Ostrich,2
+壁虎,Gecko,2
+象龟,Turtle,2
+鱿鱼,Squid,2
+毛虫,Caterpillar,2
+候鸟,Migratory Birds,2
+朱鹮,Crested Ibis,2
+麋鹿,Elk,2
+豪猪,Porcupine,2
+棕熊,Brown Bear,2
+珊瑚,Coral,2
+牦牛,Yak,2
+金蝉,Golden Cicada,2
+蟾蜍,Toad,2
+螨虫,Mites,2
+疣猪,Warthog,2
+海牛,Manatee,2
+母鸡,Hen,2
+信鸽,Homing Pigeon,2
+老鹰,Eagle,2
+鲶鱼,Catfish,2
+狼蛛,Tarantula,2
+海象,Walrus,2
+蛞蝓,Slug,2
+蝾螈,Salamander,2
+月鱼,Moon Fish,2
+飞蛾,Moth,2
+水蛭,Leech,2
+杜鹃,Cuckoo,2
+羚羊,Antelope,2
+鬣狗,Hyena,2
+马陆,Road,2
+沙猫,Sand Cat,2
+熊蜂,Bumblebee,2
+鲸鲨,Whale Shark,2
+狨猴,Marmoset,2
+砗磲,Tridacna,2
+跳鼠,Jerboa,2
+蚜虫,Aphid,2
+野猫,Wildcat,2
+海獭,Sea ​​Otter,2
+戴胜,Hoopoe,2
+飞猫,Flying Cat,2
+犰狳,Armadillo,2
+帽贝,Limpet,2
+水螅,Hydra,2
+沧龙,Mosasaurus,2
+负鼠,Possum,2
+雪貂,Ferrets,2
+洞狮,Cave Lion,2
+蛐蛐,Cricket,2
+蝈蝈,Grasshopper,2
+虱子,Lice,2
+磷虾,Krill,2
+遗鸥,Relict Gull,2
+水熊,Tardigrade,2
+灰熊,Grizzly Bear,2
+狐猴,Lemur,2
+海燕,Haiyan,2
+蛔虫,Roundworms,2
+画眉,Thrush,2
+草鱼,Grass Carp,2
+海参,Sea ​​Cucumber,2
+海豹,Seal,2
+蝌蚪,Tadpole,2
+水牛,Buffalo,2
+扇贝,Scallop,2
+魟鱼,Stingray,2
+海绵,Sponge,2
+泰迪,Teddy,2
+海星,Starfish,2
+巨猿,Giant Ape,2
+喜鹊,Magpie,2
+暴龙,Tyrannosaurus,2
+豹猫,Ocelot,2
+鲤鱼,Carp,2
+臭虫,Bed Bugs,2
+跳蚤,Flea,2
+水獭,Otter,2
+金毛,Golden Retriever,2
+纽虫,Nemertida,2
+鸊鷉,Grebe,2
+云猫,Cloud Cat,2
+麦蚜,Wheat Aphids,2
+鼓虾,Drum Shrimp,2
+野狼,Wild Wolf,2
+鳜鱼,Mandarin Fish,2
+羚牛,Takin,2
+椋鸟,Starling,2
+旅鼠,Lemmings,2
+贻贝,Mussels,2
+跳蛛,Jumping Spider,2
+蜜獾,Honey Badger,2
+大鼠,Rat,2
+黄鹂,Oriole,2
+甲鱼,Turtle,2
+赛马,Race,2
+旌蛉,Jingfly,2
+蜱虫,Ticks,2
+猎鹰,Falcon,2
+猿猴,Ape,2
+线虫,Nematodes,2
+白兔,White Rabbit,2
+灰鲸,Gray Whale,2
+雷龙,Brontosaurus,2
+猫猴,Cat Monkey,2
+灶马,Stove Horse,2
+家兔,Rabbit,2
+大雁,Wild Geese,2
+大鲵,Giant Salamander,2
+石鳖,Chiton,2
+盲蛇,Blind Snake,2
+白鹮,White Ibis,2
+龙鱼,Arowana,2
+蚁蜂,Ant Wasp,2
+蝗虫,Locust,2
+飞鱼,Flying Fish,2
+蝰蛇,Viper,2
+虾蛄,Mantis Shrimp,2
+灰狼,Gray Wolf,2
+鲑鱼,Salmon,2
+蛤蜊,Clams,2
+铃蟾,Bombe Toad,2
+藤壶,Barnacles,2
+胡狼,Jackal,2
+黄螺,Yellow Snail,2
+叶蝇,Leaf Fly,2
+蟹蛛,Crab Spider,2
+栉龙,Ctenosaurus,2
+姬鼠,Ji Mouse,2
+鬣羚,Serow,2
+红狼,Red Wolf,2
+恐猫,Fear Of Cats,2
+鲥鱼,Shad,2
+羊驼,Alpaca,2
+奇虾,Anomalocaris,2
+中龙,Zhonglong,2
+蜂猴,Loris,2
+巢鼠,Nest Rat,2
+山雀,Tit,2
+蛇雕,Snake Eagle,2
+走鹃,Roadrunner,2
+鼬獾,Ferret Badger,2
+恐狼,Dire Wolf,2
+狼鱼,Wolf Fish,2
+翼龙,Pterosaur,2
+马蜂,Wasp,2
+旅鸟,Traveling Bird,2
+雨燕,Swift,2
+山魈,Mandrill,2
+海兔,Aplysia,2
+留鸟,Resident Bird,2
+田凫,Lapwing,2
+蠵龟,Loggerhead Turtle,2
+鲳鱼,Pomfret,2
+白鹇,White Pheasant,2
+金雕,Golden Eagle,2
+田鼠,Field Mouse,2
+慈鲷,Cichlids,2
+姥鲨,Basking Shark,2
+洞螈,Cave Salamander,2
+巨蜥,Monitor Lizard,2
+鳙鱼,Bighead Carp,2
+鲢鱼,Silver Carp,2
+郊狼,Coyotes,2
+火蚁,Fire Ants,2
+崖燕,Yayan,2
+斗鱼,Betta Fish,2
+云豹,Clouded Leopard,2
+吼猴,Howler Monkey,2
+青鱼,Herring,2
+瘰螈,Scrofula,2
+鳕鱼,Cod,2
+鼷鹿,Mouse Deer,2
+香猪,Fragrant Pig,2
+袋獾,Tasmanian Devil,2
+蛇獴,Meerkats,2
+伯劳,Shrike,2
+黄鼬,Weasel,2
+犀鸟,Hornbill,2
+赤狐,Red Fox,2
+垩鮨,垳鮨,2
+壁蜂,Osmia Bee,2
+袋狼,Thylacine,2
+凤蝶,Papilion Butterfly,2
+鹿豚,Deer Dolphin,2
+须猪,Bearded Pig,2
+袋狮,Thylacine,2
+夜鹭,Night Heron,2
+盲蛛,Blind Spider,2
+蚓螈,Caecilians,2
+草蛉,Lacewing,2
+树蛙,Tree Frog,2
+王蛇,King Snake,2
+恐鸟,Moa,2
+阴虱,Pubic Lice,2
+烟蛙,Smoke Frog,2
+椿象,Stinkbug,2
+鮟鱇,Angler,2
+灰雁,Gray Goose,2
+刀鱼,Swordfish,2
+鱼龙,Ichthyosaur,2
+角蛙,Horned Frog,2
+蝠鲼,Manta Ray,2
+白鹳,White Stork,2
+寇蛛,Kou Spider,2
+彩蝠,Colorful Bat,2
+江豚,Finless Porpoise,2
+田螺,River Snail,2
+沙虫,Sandworm,2
+猛鲑,Fierce Salmon,2
+火燕,Fire Swallow,2
+白鹭,Egret,2
+夜莺,Nightingale,2
+蠕虫,Worm,2
+黄鳝,Eel,2
+鹰獒,Eagle Mastiff,2
+黄蜂,Wasp,2
+狗鱼,Pike,2
+对虾,Prawns,2
+尸鳖,Corpse Turtle,2
+龙虱,Dragon Louse,2
+锦鲤,Koi,2
+泥鳅,Loach,2
+牛蛙,Bullfrog,2
+蛾子,Moth,2
+鳄龟,Snapping Turtle,2
+鳐鱼,Skate,2
+兔狲,Rabbit,2
+黇鹿,Fallow Deer,2
+涡虫,Planarian,2
+野象,Wild Elephant,2
+榛鸡,Hazel Chicken,2
+石鱼,Stone Fish,2
+海蛇,Sea ​​Snake,2
+泡蟾,Bubble Toad,2
+斑驴,Quagga,2
+甲龙,Ankylosaurus,2
+黑鹳,Black Stork,2
+猫头鹰,Owl,3
+天竺鼠,Guinea Pig,3
+大嘴鸟,Toucan,3
+大猩猩,Gorilla,3
+长颈鹿,Giraffe,3
+小熊猫,Red Panda,3
+火烈鸟,Flamingo,3
+大熊猫,Giant Panda,3
+大老鼠,Big Mouse,3
+黑猩猩,Chimpanzee,3
+北极熊,Polar Bear,3
+萤火虫,Firefly,3
+变色龙,Chameleon,3
+猛犸象,Mammoth,3
+食人鱼,Piranha,3
+眼镜蛇,Cobra,3
+穿山甲,Pangolin,3
+海蛞蝓,Sea ​​Slug,3
+啄木鸟,Woodpecker,3
+屎壳郎,Dung Beetle,3
+三文鱼,Salmon,3
+螳螂虾,Mantis Shrimp,3
+裸鼹鼠,Naked Mole Rat,3
+水熊虫,Tardigrade,3
+仙女虾,Fairy Shrimp,3
+海蟾蜍,Cane Toad,3
+中华鲟,Chinese Sturgeon,3
+寄生虫,Parasite,3
+信天翁,Albatross,3
+帝企鹅,Emperor Penguins,3
+鹦鹉螺,Nautilus,3
+箭毒蛙,Poison Dart Frog,3
+美人鱼,Mermaid,3
+秋刀鱼,Saury,3
+斑马鱼,Zebrafish,3
+军舰鸟,Frigate Bird,3
+寄生蜂,Parasitic Wasp,3
+锤头鲨,Hammerhead Shark,3
+白犀牛,White Rhinoceros,3
+座头鲸,Humpback Whales,3
+霸王龙,Tyrannosaurus Rex,3
+孔雀鱼,Guppy,3
+帝王蝶,Monarch Butterfly,3
+渡渡鸟,Dodo Bird,3
+露脊鲸,Right Whale,3
+板足鲎,Horseshoe Crab,3
+鹦鹉鱼,Parrot Fish,3
+抹香鲸,Sperm Whale,3
+类人猿,Great Ape,3
+血吸虫,Schistosoma,3
+射水鱼,Archerfish,3
+栉水母,Ctenophore,3
+千足虫,Millipede,3
+双髻鲨,Hammerhead Shark,3
+捕鱼蛛,Fishing Spider,3
+弹涂鱼,Mudskipper,3
+独角鲸,Narwhal,3
+始祖鸟,Archaeopteryx,3
+翻车鱼,Sunfish,3
+响尾蛇,Rattlesnake,3
+行军蚁,Army Ants,3
+美洲鳗,American Eel,3
+金龙鱼,Arowana,3
+须翡翠,Shade Jadeite,3
+切叶蚁,Leafcutter Ants,3
+三叶虫,Trilobite,3
+长毛象,Mammoth,3
+奇翼龙,Strange Pterosaur,3
+娃娃鱼,Giant Salamander,3
+淡水鱼,Freshwater Fish,3
+蛇颈龙,Plesiosaur,3
+毛毛虫,Caterpillar,3
+土拔鼠,Woodchuck,3
+逆戟鲸,Killer Whale,3
+象拔蚌,Geoduck,3
+布谷鸟,Cuckoo,3
+织纹螺,Textured Snail,3
+中华鳖,Chinese Soft-Shell Turtle,3
+攀鲈鱼,Climbing Bass,3
+大黄蜂,Bumblebee,3
+吉娃娃,Chihuahua,3
+虎头蜂,Hornet,3
+蜘蛛蟹,Spider Crab,3
+红珊瑚,Red Coral,3
+亚洲象,Asian Elephant,3
+帆水母,Sail Jellyfish,3
+放屁虫,Fart Bug,3
+智利龙,Chilean Dragon,3
+绿鬣蜥,Green Iguana,3
+东北虎,Siberian Tiger,3
+口袋鲨,Pocket Shark,3
+玻璃蛙,Glass Frog,3
+大银鱼,Big Whitebait,3
+绿毛龟,Green Turtle,3
+禾花雀,Grass Sparrow,3
+黑犀牛,Black Rhino,3
+桶水母,Barrel Jellyfish,3
+齿猛蚁,Dentodon Ant,3
+毛丝鼠,Chinchilla,3
+布偶猫,Cat Plush,3
+羞死鸟,Shameless Bird,3
+多鳍鱼,Polyfin Fish,3
+弓形虫,Toxoplasma Gondii,3
+复变甲,Complex Armor,3
+螳水蝇,Mantis Fly,3
+蚊蝎蛉,"Mosquito, Scorpionfly",3
+鸭嘴兽,Platypus,3
+变形蛙,Deformed Frog,3
+褐飞虱,Brown Planthopper,3
+隐尾蠊,Cryptocercus,3
+腔棘鱼,Coelacanth,3
+盔犀鸟,Helmeted Hornbill,3
+透明鱼,Transparent Fish,3
+沟齿鼩,Grooved-Toothed Shrew,3
+缅因猫,Maine Coon Cat,3
+火体虫,Pyrosomes,3
+白头鹫,Bald Eagle,3
+大角羊,Bighorn Sheep,3
+龙王鲸,Basilosaurus,3
+吸血虫,Blood Sucking Worm,3
+短尾猫,Bobtail Cat,3
+突灶螽,Salamanders,3
+燕八哥,Yan Bago,3
+田猫狸,Tianmaoli,3
+隐翅虫,Cryptoptera,3
+大山雀,Big Tits,3
+颌针鱼,Needlefish,3
+鬣鳞蜥,Iguana,3
+金丝熊,Golden Bear,3
+鼠狐猴,Mouse Lemur,3
+王企鹅,King Penguin,3
+短尾猴,Macaque,3
+美洲豹,Jaguar,3
+面包虫,Mealworms,3
+松鼠猴,Squirrel Monkey,3
+剑齿虎,Saber-Toothed Tiger,3
+金丝蛛,Golden Spider,3
+钳嘴鹳,Snap-Billed Stork,3
+白鳍豚,Baiji Dolphin,3
+星鼻鼹,Star-Nosed Mole,3
+海狸鼠,Nutria,3
+真涡虫,Planarian,3
+树龙虾,Tree Lobster,3
+卷尾猴,Capuchin Monkey,3
+招潮蟹,Fiddler Crab,3
+黑水虻,Black Soldier Fly,3
+观赏鱼,Ornamental Fish,3
+针尾鸭,Pintail Duck,3
+鸮鹦鹉,Kakapo,3
+神仙鱼,Angel Fish,3
+清道夫,Scavenger,3
+猪鼻龟,Pig-Nosed Turtle,3
+猪鼻蛇,Hognose Snake,3
+枯叶蛙,Dead Leaf Frog,3
+大白鼠,Rat,3
+食虫虻,Insect-Eating Flies,3
+火箭蛙,Rocket Frog,3
+皱鳃鲨,Frilled Shark,3
+邓氏鱼,Dunkleosteus,3
+罗汉鱼,Flower Horn,3
+麝香猫,Civet Cat,3
+虹鳟鱼,Rainbow Trout,3
+植狡蛛,Phytophthora,3
+弓头鲸,Bowhead Whale,3
+大鳄龟,Snapping Turtle,3
+巨齿鲨,Megalodon,3
+黄昏鸟,Evening Bird,3
+戴胜鸟,Hoopoe,3
+长喙龙,Longorhynchosaurus,3
+海王龙,Neptunus,3
+小龙虾,Crayfish,3
+帝王蟹,King Crab,3
+藏羚羊,Tibetan Antelope,3
+马鬃蛇,Horsehair Snake,3
+椰子螺,Coconut Snail,3
+高脚蛛,Tall Spider,3
+绒山羊,Cashmere Goat,3
+石斑鱼,Grouper,3
+印花蛇,Printed Snake,3
+大箭鱼,Big Swordfish,3
+鮟鱇鱼,Anglerfish,3
+棱皮龟,Leatherback Turtle,3
+猪鼻鼠,Pig-Nosed Rat,3
+王锦蛇,Wang Jinshe,3
+黄粉虫,Mealworm,3
+扬子鳄,Alligator,3
+凯门鳄,Caiman,3
+切胸蚁,Ant,3
+金蟾蜍,Golden Toad,3
+青斑蝶,Blue Butterfly,3
+金丝猴,Golden Monkey,3
+巨蟹蛛,Cancer Spider,3
+金丝燕,Swiftlet,3
+赤眼蜂,Trichogramma,3
+濑尿虾,Mantis Shrimp,3
+六不像,Six Unlike,3
+角岛鲸,Cape Whale,3
+美凤蝶,Beautiful Swallowtail Butterfly,3
+缺翅虫,Lactoptera,3
+缅甸蟒,Burmese Python,3
+大林猪,Dalin Pig,3
+长耳鸮,Long-Eared Owl,3
+绿水蚺,Green Anaconda,3
+沙丁鱼,Sardine,3
+倭河马,Pygmy Hippopotamus,3
+小丑鱼,Clownfish,3
+埋葬虫,Burying Bug,3
+竹节虫,Stick Insect,3
+面象虫,Face Weevil,3
+绿孔雀,Green Peacock,3
+长鼻猴,Proboscis Monkey,3
+黑象鼩,Black Elephant Shrew,3
+马来貘,Malayan Tapir,3
+藏酋猴,Tibetan Chief Monkey,3
+大白鲨,Great White Shark,3
+侏鸬鹚,Pygmy Cormorant,3
+红颊獴,Red-Cheeked Mongoose,3
+库班猪,Cuban Pig,3
+红河猪,Red River Pig,3
+大蚁蛛,Giant Ant Spider,3
+滑翔蚁,Glider Ant,3
+金线鲃,Golden Thread Barbel,3
+白足鼠,White-Footed Mouse,3
+侏儒狨,Pygmy Tamarin,3
+鳄雀鳝,Alligator Gar,3
+野骆驼,Wild Camel,3
+豹纹鲨,Leopard Shark,3
+弓背蚁,Camponotus Ant,3
+虾虎鱼,Goby,3
+海蜘蛛,Sea ​​Spider,3
+镰刀龙,Therizinosaurus,3
+两头蛇,Two Headed Snake,3
+黄金蟒,Golden Python,3
+巨颊龙,Megalosaurus,3
+长须鲸,Fin Whale,3
+雕齿兽,Glyptodont,3
+接吻鱼,Kissing Fish,3
+刺肩蝽,Scapulata,3
+钩盲蛇,Hook Snake,3
+叶水蚤,Leaf Water Flea,3
+振元龙,Zhenyuanlong,3
+海鬣蜥,Marine Iguana,3
+利兹鱼,Leeds Fish,3
+蝴蝶犬,Butterfly Dog,3
+扁形虫,Flatworms,3
+沙皮狗,Shar Pei,3
+食蜂鸟,Bee-Eater,3
+斑头雁,Bar-Headed Goose,3
+三宝鸟,Sanbao Bird,3
+食蚊鱼,Mosquito Fish,3
+峨眉龙,Emeilong,3
+雪人蟹,Yeti Crab,3
+大型蚤,Daphnia,3
+海猴子,Sea ​​Monkey,3
+狮虎兽,Liger,3
+蛇鳄龟,Snake Snapping Turtle,3
+画眉鸟,Thrush,3
+小香猪,Little Fragrant Pig,3
+小黄鱼,Small Yellow Croaker,3
+华脐鱼,Chinese Navel Fish,3
+棉尾兔,Cottontail Rabbit,3
+魔鬼蛙,Devil Frog,3
+怪诞虫,Grotesque Bug,3
+切蛋鱼,Cut Egg Fish,3
+水滴鱼,Blobfish,3
+笑翠鸟,Kookaburra,3
+金枪鱼,Tuna,3
+华庭鸟,Huating Bird,3
+比索鸟,Peso Bird,3
+东涛鸡,Dong Tao Chicken,3
+迅猛龙,Raptor,3
+黑游蛇,Black Colubrid,3
+冥河龙,Styx Dragon,3
+五步蛇,Five-Step Snake,3
+树袋熊,Koala,3
+蛇头蝶,Snake-Headed Butterfly,3
+负子蝽,Negative Stink Bug,3
+金花蛇,Golden Snake,3
+狮子鱼,Lionfish,3
+巴西龟,Brazilian Turtle,3
+勺嘴鹬,Spoon-Billed Sandpiper,3
+七鳃鳗,Lamprey,3
+钓鱼猫,Fishing Cat,3
+野生动物,Wild Animals,4
+斑胸草雀,Zebra Finch,4
+伊犁鼠兔,Ili Pika,4
+倭黑猩猩,Bonobo,4
+非洲肺鱼,African Lungfish,4
+冬虫夏草,Cordyceps Sinensis,4
+食草动物,Herbivore,4
+高鼻羚羊,Saiga Antelope,4
+食骨蠕虫,Bone-Eating Worm,4
+蜂鸟鹰蛾,Hummingbird Hawk Moth,4
+小蓝企鹅,Little Blue Penguin,4
+滇金丝猴,Yunnan Golden Monkey,4
+六须鲶鱼,Six-Bearded Catfish,4
+杜兹肺鱼,Duz Barramundi,4
+白颊林莺,White-Cheeked Warbler,4
+红点齿蟾,Red-Spotted Toothed Toad,4
+红腹锦鸡,Golden Pheasant,4
+赛加羚羊,Saiga Antelope,4
+海月水母,Moon Jellyfish,4
+白颊山雀,White Cheeked Tit,4
+沙漠穹蛛,Desert Dome Spider,4
+啄羊鹦鹉,Kea,4
+北美负鼠,North American Opossum,4
+射炮步甲,Artillery Rifle,4
+震旦鸦雀,Cathay Crow,4
+巨脉蜻蜓,Giant-Veined Dragonfly,4
+白颏海燕,White-Chinned Petrel,4
+中华花龟,Chinese Turtle,4
+吸血蝙蝠,Bloodsucking Bat,4
+陷阱颚蚁,Trapjaw Ant,4
+颚口线虫,Gnatostome,4
+钩翅石蛾,Hook-Winged Caddisfly,4
+吸血鬼蟹,Vampire Crab,4
+孔雀跳蛛,Peacock Jumping Spider,4
+红色动物,Red Animal,4
+冈比亚鼠,Gambia Rat,4
+假鳃鳉鱼,False Gill Killifish,4
+德国蜚蠊,German Cockroach,4
+美洲蜚蠊,American Cockroach,4
+刺背鳄蜥,Spiny-Backed Crocodile Lizard,4
+兰花螳螂,Orchid Mantis,4
+新疆北鲵,Xinjiang Northern Salamander,4
+穴居沙龟,Burrowing Sand Turtle,4
+安哥拉兔,Angora Rabbit,4
+枯叶蝴蝶,Dead Leaf Butterfly,4
+虎皮鹦鹉,Budgerigar,4
+印度星龟,Indian Star Tortoise,4
+大马哈鱼,Salmon,4
+原深茗荷,Yuan Shen Minghe,4
+加州神鹫,California Condor,4
+宽吻海豚,Bottlenose Dolphin,4
+布氏幽蛙,Bruce'S Ghost Frog,4
+北美星鸦,North American Star Crow,4
+三星盘虫,Samsung Disk Bug,4
+亚洲鲤鱼,Asian Carp,4
+尖嘴地雀,Sharp-Billed Ground Finch,4
+丽鱼科鱼,Cichlids,4
+奇异盗蛛,Strange Thief Spider,4
+美国负鼠,American Possum,4
+智利隐蛛,Chilean Recluse Spider,4
+中国小鲵,Chinese Salamander,4
+变色树蜥,Chameleon,4
+草原田鼠,Prairie Vole,4
+巴西涡螺,Brazilian Whirlpool,4
+蓝极乐鸟,Blue Bird Of Paradise,4
+青头潜鸭,Pochard,4
+黄腹水蛇,Yellow-Bellied Water Snake,4
+丽星鹩鹛,Star Wren,4
+大乌鞘蛇,Big Black Sheath Snake,4
+绿太阳鱼,Green Sunfish,4
+安邦雀鲷,Ampang Damselfish,4
+豆丁海马,Pygmy Seahorse,4
+扁嘴海雀,Puffin,4
+非洲野狗,African Wild Dog,4
+九棘刺鱼,Nine-Spine Stickleback,4
+长耳跳鼠,Long-Eared Jerboa,4
+锯腹脂鲤,Saw-Bellied Carp,4
+北小麝鼩,Northern Lesser Musk Shrew,4
+黑足雪貂,Black Footed Ferret,4
+长吻海蛇,Long-Nosed Sea Snake,4
+大旋鳃虫,Helicopterus,4
+红背蜘蛛,Redback Spider,4
+日本猕猴,Japanese Macaque,4
+卷毛野猪,Curly Boar,4
+白腰文鸟,White-Rumped Munia,4
+前口蝠鲼,Manta Ray,4
+大王乌贼,King Squid,4
+红腹灰雀,Bullfinch,4
+银背艾蛛,Silverback Wormwood Spider,4
+冰海精灵,Ice Sea Elf,4
+三趾树懒,Three-Toed Sloth,4
+壶瓶山鮡,Hupingshan,4
+卷羽鹈鹕,Curly Pelican,4
+细尾鹩莺,Fairy Wren,4
+负子蟾蜍,Bearded Toad,4
+非洲金豺,African Golden Jackal,4
+北美旅鸽,North American Passenger Pigeon,4
+红毛猩猩,Orangutan,4
+鬼面天蛾,Ghost-Faced Hawkmoth,4
+沙漠雨蛙,Desert Tree Frog,4
+格林胄蛙,Green Frog,4
+瓢虫茧蜂,Ladybug Braconid Wasp,4
+长江江豚,Yangtze Finless Porpoise,4
+三突花蛛,Trichosanthes Spider,4
+刻绒茧蜂,Velvet Braconid Wasp,4
+血红龙鱼,Blood Red Arowana,4
+棘冠海星,Crown Of Thorns Starfish,4
+巴西胡峰,Brazil Hu Feng,4
+黑脉金斑蝶,Monarch Butterfly,5
+阳彩臂金龟,Sunflower-Armed Beetle,5
+非洲灰鹦鹉,African Gray Parrot,5
+大王具足虫,Giant King Beetle,5
+弥曼始今鸟,Mi Man Shi Jin Bird,5
+四川短翅莺,Sichuan Short-Winged Warbler,5
+火玫瑰蜘蛛,Fire Rose Spider,5
+婆罗洲犀牛,Borneo Rhinoceros,5
+扁头摄魂蜂,Flat-Headed Soul-Destroying Bee,5
+红嘴相思鸟,Red-Billed Lovebird,5
+巨型蜘蛛蟹,Giant Spider Crab,5
+红树林树雀,Mangrove Tree Sparrow,5
+高智商动物,Highly Intelligent Animals,5
+果壳綦江龙,Guoke Qijianglong,5
+南美洲栗鼠,Chinchilla,5
+地中海实蝇,Mediterranean Fruit Fly,5
+阿马乌童蛙,Amau Frog,5
+查菲窄尾魟,Chaffey'S Narrow-Tailed Stingray,5
+白色鼠海豚,White Porpoise,5
+香港后棱蛇,Hong Kong Back-Snake,5
+科莫多巨蜥,Komodo Dragon,5
+蓝顶蓝饰雀,Blue-Capped Sparrow,5
+太平洋丽龟,Pacific Olive Ridley,5
+东方剑齿象,Eastern Stegodon,5
+海南长臂猿,Hainan Gibbon,5
+中原豫俊兽,Central Plains Yujun Beast,5
+斑纹隐小鳉,Zebrafish,5
+栗冠弯嘴鹛,Chestnut-Crowned Babbler,5
+金斑喙凤蝶,Golden-Spotted Swallowtail Butterfly,5
+中华白海豚,Chinese White Dolphin,5
+石龙子蜥蜴,Skink Lizard,5
+蓝喉锯缘蜥,Blue-Throated Lizard,5
+云南盘鮈鱼,Yunnan Panfish,5
+远古海狸兽,Ancient Beaver,5
+黑寡妇蜘蛛,Black Widow Spider,5
+巴西游走蛛,Brazilian Wandering Spider,5
+高黎贡羚牛,Gaoligong Takin,5
+斑点楔齿蜥,Spotted Lizard,5
+白胸苦恶鸟,White-Breasted Bitter Bird,5
+秋麒麟蟹蛛,Autumn Unicorn Crab Spider,5
+非洲刺毛鼠,African Spiny Rat,5
+乌桕大蚕蛾,Tallow Silkworm Moth,5
+北方象海豹,Northern Elephant Seal,5
+非洲草原象,African Savanna Elephant,5
+红头黑林鸽,Red-Headed Wood Pigeon,5
+牙买加稻鼠,Jamaican Rice Rat,5
+山鸡细趾蟾,Pheasant Slender-Toed Toad,5
+条纹斑竹鲨,Striped Bamboo Shark,5
+黄金箭毒蛙,Golden Poison Dart Frog,5
+日本大山雀,Japanese Big Tits,5
+加拿大黑雁,Canada Brent Goose,5
+小头鼠海豚,Vaquita,5
+咖啡果小蠹,Coffee Fruit Beetle,5
+虎纹伯劳鸟,Tiger Shrike,5
+荷兰侏儒兔,Dutch Dwarf Rabbit,5
+北岛垂耳鸦,North Island Lop-Eared Crow,5
+三眼恐龙虾,Three-Eyed Dinosaur Shrimp,5
+阿根廷蚂蚁,Argentine Ant,5
+斑嘴环企鹅,Spotted-Billed Penguin,5
+短尾矮袋鼠,Quokka,5
+撒哈拉银蚁,Saharan Silver Ant,5
+叉尾卷尾鸟,Forked-Tailed Drongo,5
+越中巨齿蛉,Macrodon In Vietnam,5
+非洲大蜗牛,African Giant Snail,5
+巴西卷尾猴,Brazilian Capuchin Monkey,5
+漏斗网蜘蛛,Funnel Web Spider,5
+中华锦绣龙虾,Chinese Splendid Lobster,6
+墨西哥丽脂鲤,Mexican Carp,6
+碎毛盘海蛞蝓,Nudibranch Nudibranch,6
+Cherax,Cherax,6
+粉红珊瑚鳌虾,Pink Coral Crayfish,6
+斯瓦尔巴驯鹿,Svalbard Reindeer,6
+太平洋潜泥蛤,Pacific Mud Clam,6
+鳞角腹足蜗牛,Scaly-Horned Gastropod Snail,6
+普尔加托里猴,Purgatory Monkey,6
+安第斯眼镜熊,Andean Spectacled Bear,6
+奇异多指节蛙,Bizarre Multi-Knuckled Frog,6
+苏格兰牧羊犬,Collie,6
+苏拉威西猕猴,Sulawesi Macaque,6
+伊比利亚山蛙,Iberian Mountain Frog,6
+墨西哥钝口螈,Mexican Axolotl,6
+壮丽细尾鹩莺,Magnificent Fairy Wren,6
+越南棱皮树蛙,Vietnamese Leatherback Tree Frog,6
+云斑尖嘴丽鱼,Cloud-Spotted Sharpbill Cichlid,6
+中华凤头燕鸥,Chinese Crested Tern,6
+苏格兰折耳猫,Scottish Fold Cat,6
+树袋熊|考拉,Koala | Koala,6
+南非白纹牛羚,South African Wildebeest,6
+蓝脸孔雀蜘蛛,Blue-Faced Peacock Spider,6
+加拉帕戈斯象龟,Galapagos Tortoise,7
+小葵花凤头鹦鹉,Little Sunflower Cockatoo,7
+达尔文树皮蜘蛛,Darwin'S Bark Spider,7
+小笠原杂色林鸽,Ogasawara Variegated Wood Pigeon,7
+巴西长髯卷尾猴,Brazilian Bearded Capuchin Monkey,7
+双带扁蝇虎蜘蛛,Two-Banded Tiger Spider,7
+科罗拉多河蟾蜍,Colorado River Toad,7
+阿苏艾粗脚蟾蜍,Asuai Rough-Footed Toad,7
+加拉帕格斯巨人蜈蚣,Galapagos Giant Centipede,9
+赫摩里奥普雷斯毛虫,Hermoriopres Caterpillar,9

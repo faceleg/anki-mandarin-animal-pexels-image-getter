@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "image-downloader": "^4.3.0",
+    "node-logger": "^0.0.1",
+    "pexels": "^1.4.0",
+    "winston": "^3.13.0"
+  }
+}
